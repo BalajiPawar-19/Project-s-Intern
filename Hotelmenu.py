@@ -2,7 +2,8 @@ menu = {
     'Pizza': 100,
     'Coffee': 40,
     'Burger': 120,
-    'pasta': 180,
+    'Pasta': 180,
+    'Tea' : 30,
 }
 
 print("Welcome to our Pytho Cafe!")
@@ -42,3 +43,5 @@ while True:
 
 
 print(f"\nThank You For Ordering! Your Total Bill is Rs.{order_total}")
+
+
